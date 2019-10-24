@@ -16,8 +16,8 @@ div {
   display: inline-block;
   text-decoration: none;
   list-style-type: none;
-  padding: .3em .75em;
-  border-radius: 9px;
+  padding: .3em .75em .5em;
+  border-radius: 8px;
   color: #fff;
   background-color: #333;
   border: solid #000;

@@ -16,11 +16,16 @@ div {
   display: inline-block;
   text-decoration: none;
   list-style-type: none;
-  padding: .3em .75em .5em;
+  padding: .5em .75rem;
+  font-size: 1.125rem;
   border-radius: 8px;
   color: #fff;
   background-color: #333;
+}
+
+.gh {
   border: solid #000;
+  border-width: 3px;
 }
 
 .btn:hover {
@@ -28,7 +33,7 @@ div {
 }
 
 .btn-ghost {
-  color: #000;
+  color: #333;
   background-color: #fff;
 }
 
